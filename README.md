@@ -1,7 +1,7 @@
 
 # Full StackWebsite:
  
-This project is build using ReacJs, Express and MongoDB for database and authentication is done using JWT. Along with chatting.
+This project is build using ReacJs, Express and MongoDB for database and authentication is done using JWT.
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
