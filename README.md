@@ -1,5 +1,5 @@
 
-# The Internet Folks API:
+# Full StackWebsite:
  
 This project is build using ReacJs, Express and MongoDB for database and authentication is done using JWT. Along with chatting.
 ## Environment Variables
