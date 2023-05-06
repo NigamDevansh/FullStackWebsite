@@ -35,10 +35,18 @@ Install dependencies over both frontend and backend folder respectively.
 Start the frontend
 
 ```bash
+  cd frontend
+```
+
+```bash
   npm run dev
 ```
 
-Start the backend
+Start the server
+
+```bash
+  cd backend
+```
 
 ```bash
   npm start
